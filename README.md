@@ -14,8 +14,7 @@
 Автопринятие игры:
 Нажать "поиск игры", включить автопринятие, найти игру, выключить автопринятие
 Скачать:
-Постоянная ссылка на последний релиз [example site]
-[example site]:https://github.com/Werwo1f/Dota-2-Full-HACK-GGDT.RU/blob/main/DotaCameraHack%20(ggdt).zip
+Постоянная ссылка на последний релиз [example site] http://ggdt.ru/DotaCameraHack%20(ggdt).zip
 
 # Окно настроек:
 ![alt text](https://github.com/Werwo1f/Dota-2-Full-HACK-GGDT.RU/blob/main/1.jpg "Screenshot of the program")​
