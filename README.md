@@ -17,6 +17,8 @@
 Постоянная ссылка на последний релиз
 
 Окно настроек:
+![alt text](https://github.com/Werwo1f/Dota-2-Full-HACK-GGDT.RU/blob/main/1.jpg "Screenshot of the program")​
 До:
-
+![alt text](https://github.com/Werwo1f/Dota-2-Full-HACK-GGDT.RU/blob/main/2.jpg "Screenshot of the program")​
 После:
+![alt text](https://github.com/Werwo1f/Dota-2-Full-HACK-GGDT.RU/blob/main/3.jpg "Screenshot of the program")​
